@@ -1,2 +1,17 @@
 # Ignore CI build directory
 build/
+
+
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+googlemock/CMakeFiles/
+googlemock/CTestTestfile.cmake
+googlemock/Makefile
+googlemock/cmake_install.cmake
+googlemock/gtest/
+googlemock/libgmock.a
+googlemock/libgmock_main.a
+
